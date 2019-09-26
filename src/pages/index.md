@@ -8,7 +8,7 @@ sections:
     content: >-
       Very Good Marketing will bring you customers by meeting them and engaging
       them where they are hanging out; Facebook and Instagram.
-    image: images/hero.png
+    image: /images/hero1.png
     section_id: hero
     title: You CAN get More Customers Using Facebook and Instagram
     type: heroblock
