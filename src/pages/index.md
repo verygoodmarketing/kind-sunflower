@@ -31,7 +31,7 @@ sections:
         content: >-
           Very Good Marketing will not work with your competitors while you are
           our customer. This will allow you to dominate your market.
-        image: images/feature2.png
+        image: /images/feature2-1.png
         title: Exclusive to Your Market
       - actions:
           - label: Learn More
