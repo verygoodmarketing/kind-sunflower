@@ -20,9 +20,9 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          We create ads that draw in customers. Working with you, we develop
+          compelling offers that are tested and proven to be effective in
+          getting people interested in what you have to offer.
         image: images/feature1.png
         title: Creative Ideas and Content
       - actions:
@@ -43,9 +43,9 @@ sections:
         title: Custom Lead Pages
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+      Facebook and Instagram ads connect with more people than TV and radio
+      combined. Learn about the reasons to work with us below.
+    title: We Bring You Customers
     type: featuresblock
   - bg: white
     component: ReviewsBlock
@@ -68,17 +68,17 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
     section_id: reviews
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    title: Testimonials
+      We love helping our customers get more customers. We see every customer as
+      a friend
+    title: What Our Customers are Saying
     type: reviewsblock
   - actions:
       - label: Get Started
         url: /signup
     component: CtaBlock
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: Get in touch with us today and let's work together!
+    title: What's Stopping You from Getting Customers?
     type: ctablock
   - bg: gray
     component: PostsBlock
