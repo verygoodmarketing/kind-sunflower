@@ -6,11 +6,12 @@ sections:
         url: /features
     component: HeroBlock
     content: >-
-      Very Good Marketing will bring you customers by meeting them and engaging
-      them where they are hanging out; Facebook and Instagram.
+      Getting customers from Facebook and Instagram is not as simple as just
+      having an account. Very Good Marketing will funnel the right people to you
+      so you can make them customers.
     image: /images/hero1.png
     section_id: hero
-    title: You CAN get More Customers Using Facebook and Instagram
+    title: Get More Customers Using Facebook and Instagram
     type: heroblock
   - bg: gray
     component: FeaturesBlock
@@ -23,25 +24,23 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: Creative Ideas and Content
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Very Good Marketing will not work with your competitors while you are
+          our customer. This will allow you to dominate your market.
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: Exclusive to Your Market
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          We create custom landing pages for your advertisements that allow you
+          to gather information and capture leads.
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: Custom Lead Pages
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
