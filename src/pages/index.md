@@ -68,9 +68,9 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
     section_id: reviews
     subtitle: >-
-      We love helping our customers get more customers. We see every customer as
-      a friend
-    title: What Our Customers are Saying
+      We love helping our clients get more customers. We see every client as a
+      friend.
+    title: What Our Clients are Saying
     type: reviewsblock
   - actions:
       - label: Get Started
