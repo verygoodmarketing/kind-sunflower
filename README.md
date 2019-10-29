@@ -29,3 +29,5 @@ The content of this site is managed by NetlifyCMS. Visit https://{yoursite-domai
         npm run develop
 
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
+
+From time to time, update this line to fix StackBit url errors.
