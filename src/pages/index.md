@@ -23,7 +23,7 @@ sections:
           We create ads that draw in customers. Working with you, we develop
           compelling offers that are tested and proven to be effective in
           getting people interested in what you have to offer.
-        image: images/feature1.png
+        image: images/feature3.png
         title: Creative Ideas and Content
       - actions:
           - label: Learn More
@@ -39,7 +39,7 @@ sections:
         content: >-
           We create custom landing pages for your advertisements that allow you
           to gather information and capture leads.
-        image: images/feature3.png
+        image: images/feature1-1.png
         title: Custom Lead Pages
     section_id: features
     subtitle: >-
