@@ -66,9 +66,19 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+      - author: Nichard Boe
+        avatar: images/review1.jpg
+        content: >-
+          Integer consectetur purus neque, ac porttitor enim convallis vitae.
+          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+      - author: Stichard Floe
+        avatar: images/review2.jpg
+        content: >-
+          Integer consectetur purus neque, ac porttitor enim convallis vitae.
+          Interdum et malesuada fames ac ante ipsum primis in faucibus.          
     section_id: reviews
     subtitle: >-
-      We love helping our clients get more customers. We see every client as a
+      We love helping our clients get more customers. We treat every client as a
       friend.
     title: What Our Clients are Saying
     type: reviewsblock
