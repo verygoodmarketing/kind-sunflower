@@ -2,7 +2,7 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
     plugins: [
-        `gatsby-plugin-react-helmet`,
+        `gatsby-plugin-react-helmet-async`,
         `gatsby-source-data`,
         {
             resolve: `gatsby-source-filesystem`,
