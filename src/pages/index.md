@@ -23,7 +23,7 @@ sections:
           We create ads that draw in customers. Working with you, we develop
           compelling offers that are tested and proven to be effective in
           getting people interested in what you have to offer.
-        image: images/feature3.png
+        image: images/feature3-1.png
         title: Creative Ideas and Content
       - actions:
           - label: Learn More
