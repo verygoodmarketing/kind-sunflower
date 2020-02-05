@@ -25,7 +25,7 @@ export default class FaqBlock extends React.Component {
                       <div className="accordion-icon icon-plus" />
                     </button>
                   </dt>
-                  <dd key={faqitem_idx} className="accordion-panel">
+                  <dd key={faqitem_idx + '-' + 1} className="accordion-panel">
                     <div className="accordion-content">
                       {markdownify(_.get(faqitem, 'answer'))}
                     </div>

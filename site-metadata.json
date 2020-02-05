@@ -16,20 +16,13 @@
   },
   "footer": {
     "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_content": "Stay updated on our latest offers.",
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "Very Good Marketing Company",
     "logo_img": "/images/verygood-alt.png",
     "has_social": true,
     "content": "&copy; Very Good Marketing Co. All rights reserved.",
-    "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ],
     "nav_title": "Company",
     "has_nav": true
   }

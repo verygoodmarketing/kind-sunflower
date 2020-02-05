@@ -50,7 +50,7 @@ export default class Contact extends React.Component {
                     </label>
                   </p>
                   <p className="form-row">
-                    <label for="contact_name" className="form-label">
+                    <label htmlFor="contact_name" className="form-label">
                       Name
                       <input
                         id="contact_name"
@@ -61,7 +61,7 @@ export default class Contact extends React.Component {
                     </label>
                   </p>
                   <p className="form-row">
-                    <label for="contact_email" className="form-label">
+                    <label htmlFor="contact_email" className="form-label">
                       Email address
                       <input
                         id="contact_email"
@@ -72,7 +72,7 @@ export default class Contact extends React.Component {
                     </label>
                   </p>
                   <p className="form-row">
-                    <label for="contact_message" className="form-label">
+                    <label htmlFor="contact_message" className="form-label">
                       Message
                       <textarea
                         id="contact_message"

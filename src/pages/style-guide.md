@@ -5,7 +5,7 @@ subtitle: >-
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
 menus:
-  main:
+  secondary:
     title: Style Guide
     weight: 3
 template: page
