@@ -5,7 +5,7 @@ import _ from 'lodash';
 import {safePrefix} from '../utils';
 import Header from './Header';
 import Footer from './Footer';
-import MessengerCustomerChat from 'react-messenger-customer-chat-beta';
+import MessengerCustomerChat from 'react-messenger-customer-chat';
 
 export default class Body extends React.Component {
     render() {
