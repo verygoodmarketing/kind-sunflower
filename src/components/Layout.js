@@ -3,9 +3,9 @@ import {Helmet} from 'react-helmet-async';
 import _ from 'lodash';
 
 import {safePrefix} from '../utils';
-import MessengerCustomerChat from 'react-messenger-customer-chat';
 import Header from './Header';
 import Footer from './Footer';
+import MessengerCustomerChat from 'react-messenger-customer-chat-beta';
 
 export default class Body extends React.Component {
     render() {
@@ -29,11 +29,13 @@ export default class Body extends React.Component {
               />
               <link rel="stylesheet" href={safePrefix('assets/css/main.css')} />
             </Helmet>
+
             <MessengerCustomerChat
               pageId="1042711662596982"
               appId=""
-              htmlRef="<REF_STRING>"
+              theme_color="#0084ff"
             />
+
             <div
               id="page"
               className={
