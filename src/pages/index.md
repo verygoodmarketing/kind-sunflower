@@ -54,28 +54,7 @@ sections:
         avatar: images/review1.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-      - author: Nichard Boe
-        avatar: images/review1.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-      - author: Stichard Floe
-        avatar: images/review2.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.          
+          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.             
     section_id: reviews
     subtitle: >-
       We love helping our clients get more customers. We treat every client as a
