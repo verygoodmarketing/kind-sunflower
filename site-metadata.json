@@ -8,7 +8,7 @@
     "menu": {
       "actions": [
         {
-          "label": "Schedule",
+          "label": "Get Started",
           "url": "https://fb.com/book/verygoodco/"
         }
       ]
@@ -22,7 +22,7 @@
     "tagline": "Very Good Marketing Company",
     "logo_img": "/images/verygood-alt.png",
     "has_social": true,
-    "content": "&copy; Very Good Marketing Co. All rights reserved.",
+    "content": "&copy; Very Good Marketing Co. &#x271D;",
     "nav_title": "Company",
     "has_nav": true
   }
