@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Learn More
-        url: /features
+        url: /features#feature_funnel
     component: HeroBlock
     content: >-
       Getting customers from Facebook and Instagram is not as simple as just
@@ -18,7 +18,7 @@ sections:
     featureslist:
       - actions:
           - label: Learn More
-            url: /features
+            url: /features#feature_creative
         content: >-
           We create ads that draw in customers. Working with you, we develop
           compelling offers that are tested and proven to be effective in
@@ -27,7 +27,7 @@ sections:
         title: Creative Ideas and Content
       - actions:
           - label: Learn More
-            url: /features
+            url: /features#feature_exclusive
         content: >-
           Very Good Marketing will not work with your competitors while you are
           our customer. This will allow you to dominate your market.
@@ -35,7 +35,7 @@ sections:
         title: Exclusive to Your Market
       - actions:
           - label: Learn More
-            url: /features
+            url: /features#feature_leadpages
         content: >-
           We create custom landing pages for your advertisements that allow you
           to gather information and capture leads.
@@ -63,7 +63,7 @@ sections:
     type: reviewsblock
   - actions:
       - label: Get Started
-        url: /signup
+        url: https://fb.com/book/verygoodco/
     component: CtaBlock
     section_id: call-to-action
     subtitle: Get in touch with us today and let's work together!
