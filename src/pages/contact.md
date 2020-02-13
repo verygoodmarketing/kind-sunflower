@@ -7,4 +7,4 @@ menus:
 template: contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
+Need or want to talk with us? Send us an email through our contact form here or for a faster response, find us on Facebook, Instagram, or Twitter.
