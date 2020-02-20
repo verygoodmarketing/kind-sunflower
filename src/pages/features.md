@@ -9,14 +9,17 @@ sections:
       People use Facebook and Instagram **alot**. On a daily basis, there are more than 1.62 million people active on Facebook.
       That's a ton of people that you have the ability to show your services to through Facebook and Instagram ads.  
 
+
       But, running Facebook and Instagram ads is confusing. You have the ability to easily "boost" a post but those 
-      "boosted" posts are typically ineffective and a waste of money.
+      "boosted" posts are typically ineffective and a waste of money.  
+
 
       * We handle the Facebook and Instagram ads for you.
 
       * We work with you to create the perfect ad for your business.
 
-      * We show you what we are doing so you will understand how your money is being spent.
+      * We show you what we are doing so you will understand how your money is being spent.  
+
 
       Together we will create your business a flow of new customer leads and you can stop wasting money on advertising that's not what it ought to be.
     image: images/feature1-1.png
@@ -29,18 +32,23 @@ sections:
     title: Creative Ads Attract More Customers
     component: ContentBlock
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Marketing is everywhere you look. Billboards, commercials,
+      magazine and mailer ads. If your ads don't stand out then
+      they will only blend in and be lost in the crowd.
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      We create ads customized to your business for people who
+      are looking to buy from you. We use:
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      * High quality artwork to catch attention
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      * Well designed strategies that appeal to those looking for your services
+
+      * Unique content in ad copy to attract quality customers
+
+
+      Your success is our goal. Let's work together to start driving
+      new customers to you.
     image: images/feature3-1.png
     bg: white
     actions:
