@@ -1,5 +1,6 @@
 ---
 title: Home
+bookingUrl: &bookingUrl https://m.facebook.com/services_vertical/book_appointment/?page_id=1042711662596982&referrer=primary_cta&referrer_surface=page
 sections:
   - actions:
       - label: Learn More
@@ -63,7 +64,7 @@ sections:
     type: reviewsblock
   - actions:
       - label: Get Started
-        url: https://fb.com/book/verygoodco/
+        url: *bookingUrl
     component: CtaBlock
     section_id: call-to-action
     subtitle: Get in touch with us today and let's work together!

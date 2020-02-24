@@ -1,5 +1,6 @@
 ---
 title: Features
+bookingUrl: &bookingUrl https://m.facebook.com/services_vertical/book_appointment/?page_id=1042711662596982&referrer=primary_cta&referrer_surface=page
 sections:
   - type: contentblock
     section_id: feature_funnel
@@ -29,7 +30,7 @@ sections:
     bg: gray
     actions:
       - label: Schedule Now
-        url: https://www.facebook.com/verygoodco/services/
+        url: *bookingUrl
   - type: contentblock
     section_id: feature_creative
     title: Creative Ads Attract More Customers
@@ -57,9 +58,7 @@ sections:
     bg: white
     actions:
       - label: Schedule Now
-        url: https://www.facebook.com/verygoodco/services/
-      # - label: View Demo
-      #   url: '#'
+        url: *bookingUrl
   - type: contentblock
     section_id: feature_exclusive
     title: We'll Work Exclusively with You
@@ -83,9 +82,7 @@ sections:
     bg: gray
     actions:
       - label: Schedule Now
-        url: https://www.facebook.com/verygoodco/services/
-      # - label: View Demo
-      #   url: '#'
+        url: *bookingUrl
   - type: contentblock
     section_id: feature_leadpages
     title: Mini Webpages Specifically for Your Ads
@@ -110,9 +107,7 @@ sections:
     bg: white
     actions:
       - label: Schedule Now
-        url: https://www.facebook.com/verygoodco/services/
-      # - label: View Demo
-      #   url: '#'
+        url: *bookingUrl
   - type: ctablock
     section_id: call-to-action
     title: What's Stopping You from Getting Customers?
@@ -120,7 +115,7 @@ sections:
     subtitle: Get in touch with us today and let's work together!
     actions:
       - label: Get Started
-        url: https://www.facebook.com/verygoodco/services/
+        url: *bookingUrl
 menus:
   main:
     title: Features

@@ -1,5 +1,6 @@
 ---
 title: Pricing
+bookingUrl: &bookingUrl https://m.facebook.com/services_vertical/book_appointment/?page_id=1042711662596982&referrer=primary_cta&referrer_surface=page
 sections:
   - type: pricingblock
     section_id: pricing
@@ -9,17 +10,17 @@ sections:
     bg: gray
     pricingplans:
       - title: Basic
-        price: $5/m
+        price: $39/m
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Order Now
-            url: /signup
+          - label: Get Started
+            url: *bookingUrl
       - title: Professional
-        price: $49/m
+        price: $69/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula
@@ -28,8 +29,8 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: Order Now
-            url: /signup
+          - label: Get Started
+            url: *bookingUrl
       - title: Enterprise
         price: $149/m
         details: |-
@@ -38,8 +39,8 @@ sections:
           * Mauris eleifend sapien
           * Phasellus lobortis risus
         actions:
-          - label: Order Now
-            url: /signup
+          - label: Get Started
+            url: *bookingUrl
   - type: faqblock
     section_id: faq
     title: Frequently Asked Questions
