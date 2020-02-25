@@ -6,38 +6,41 @@ sections:
     section_id: pricing
     title: Pricing Plans
     component: PricingBlock
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: We have multiple Facebook and Instagram pricing options to fit growing business and well established organizations that just need some help.
     bg: gray
     pricingplans:
-      - title: Basic
+      - title: Single
         price: $39/m
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * Custom Ad Creation
+          * Offer Planning
+          * 1 Ad Updated Monthly
+          * Weekly Effectiveness Reports
+          * Landing Page w/ Lead Form
         actions:
           - label: Get Started
             url: *bookingUrl
       - title: Professional
-        price: $69/m
+        price: $299/m
         details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+          * Fully Managed Ads
+          * Facebook & Instagram Retargeting
+          * Multiple Updates per Month
+          * A / B Split Testing
+          * Weekly Effectiveness Reports
+          * Up to 3 Landing Page w/ Lead Form          
         highlight: true
         actions:
           - label: Get Started
             url: *bookingUrl
-      - title: Enterprise
+      - title: Multiple
         price: $149/m
         details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
+          * Custom Ad Creation
+          * Offer Planning
+          * 3 Ads Updated Monthly
+          * Weekly Effectiveness Reports
+          * Landing Page w/ Lead Form
         actions:
           - label: Get Started
             url: *bookingUrl
@@ -45,16 +48,20 @@ sections:
     section_id: faq
     title: Frequently Asked Questions
     component: FaqBlock
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: All plans require a one time $299 consultation and setup. The amount of
+              money spent on ads is a seperate cost and will be billed through Facebook.
     bg: gray
     faqitems:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: What is included in the required consultation and setup?
         answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+          There is a lot of work that goes into setting up a Facebook Ads account
+          and getting your business ready to run effective ads. The required
+          consultation and setup are where we will meet with you for about an hour,
+          typically over a Zoom video call while you are at a computer. We will
+          discuss the ad or ads you want to run, the offer you want to give in
+          your ads, and how much we recommend that you spend running your ads.
+          We will also use this time to connect to your Facebook Ads account so
+          that we can manage your account on your behalf.
       - question: Aliquam eget purus ante?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
