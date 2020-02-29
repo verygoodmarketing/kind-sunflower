@@ -62,20 +62,17 @@ sections:
           your ads, and how much we recommend that you spend running your ads.
           We will also use this time to connect to your Facebook Ads account so
           that we can manage your account on your behalf.
-      - question: Aliquam eget purus ante?
+      - question: How long does it take to start seeing my ads on Facebook and Instagram?
         answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+          After our initial meeting, we will set up a date and time to meet again
+          for the required consultation and setup. Typically within a week, we
+          will be able to have your ads up and running.
+      - question: Can I cancel if the results are not what I expect?
         answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+          You can cancel our services for any reason. We just need a 30 day notice
+          before the last day that you want service. You can also have us pause the
+          ads at anytime to stop Facebook from charging a daily fee. If you decide
+          to cancel our services, a new startup fee will be needed to restart ad services.
 menus:
   main:
     title: Pricing

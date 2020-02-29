@@ -528,3 +528,9 @@
     padding-top: 0;
   }
 }
+
+@media only screen and (min-width: 940px) {
+  section[id^='feature_'] {
+    scroll-margin-top: 5rem;
+  }
+}
