@@ -6,7 +6,7 @@ import {safePrefix, markdownify, Link} from '../utils';
 export default class ContentBlock extends React.Component {
     render() {
         return (
-            <section id={_.get(this.props, 'section.section_id')} className={'block text-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
+            <section className={'block text-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
               <div className="inner">
                 <div className="grid">
                   {_.get(this.props, 'section.image') && 
@@ -15,7 +15,7 @@ export default class ContentBlock extends React.Component {
                   </div>
                   }
                   <div className="cell block-content">
-                    <h2 className="block-title underline">{_.get(this.props, 'section.title')}</h2>
+                    <h2 id={_.get(this.props, 'section.section_id')} className="zippy block-title underline">{_.get(this.props, 'section.title')}</h2>
                     <div className="block-copy">
                       {markdownify(_.get(this.props, 'section.content'))}
                     </div>
