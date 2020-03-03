@@ -3,10 +3,12 @@ title: Customer Loyalty Programs That Stick
 subtitle: A story about customer loyalty
 date: '2019-04-23'
 thumb_img_path: images/3_thumb.jpg
-content_img_path: images/3.jpg
-excerpt: >-
+content_img_path: &imgUrl /images/3.jpg
+image: *imgUrl
+excerpt: &desc >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.
+description: *desc
 template: post
 ---
 

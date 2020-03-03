@@ -1,4 +1,5 @@
 import React from 'react';
+import SEO from '../components/Seo';
 import _ from 'lodash';
 import moment from 'moment-strftime';
 
@@ -8,6 +9,12 @@ import {safePrefix, htmlToReact} from '../utils';
 export default class Post extends React.Component {
     render() {
         return (
+          <div>
+            <SEO
+              title={_.get(this.props, 'pageContext.frontmatter.title')}
+              description={_.get(this.props, 'pageContext.frontmatter.description')}
+              image={_.get(this.props, 'pageContext.frontmatter.image')}
+            />          
             <Layout {...this.props}>
             <div className="outer">
               <div className="inner-medium">
@@ -36,6 +43,7 @@ export default class Post extends React.Component {
               </div>
             </div>
             </Layout>
+          </div>
         );
     }
 }

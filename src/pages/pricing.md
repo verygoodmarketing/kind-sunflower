@@ -1,5 +1,7 @@
 ---
 title: Pricing
+description: "Our prices are very affordable compared to other marketing companies."
+image: ""
 bookingUrl: &bookingUrl https://m.facebook.com/services_vertical/book_appointment/?page_id=1042711662596982&referrer=primary_cta&referrer_surface=page
 sections:
   - type: pricingblock

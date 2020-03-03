@@ -1,5 +1,7 @@
 ---
-title: Contact
+title: Get in touch with us
+description: ""
+image: ""
 menus:
   secondary:
     title: Contact

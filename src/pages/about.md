@@ -1,9 +1,11 @@
 ---
-title: About Us
-subtitle: >-
+title: About
+subtitle: &desc >-
   There are a lot of businesses doing the same thing you are. To catch attention you
   have to think abou things differently.
-img_path: images/about.jpg
+description: *desc
+img_path: &img /images/about.jpg
+image: *img
 menus:
   secondary:
     title: About Us

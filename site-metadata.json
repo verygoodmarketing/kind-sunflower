@@ -1,6 +1,12 @@
 {
-  "title": "Very Good Marketing",
+  "title": "Effective Online Marketing for Small Businesses",
+  "titleTemplate": "%s · Very Good Marketing Co.",
+  "description": "Simple, affordable, and effective Facebook and Instagram marketing for small businesses.",
+  "image": "/images/share.png",
+  "url": "https://verygoodmarketing.com",
   "palette": "blue",
+  "twitterUsername": "@very_marketing",
+  "facebookAppID": "",
   "header": {
     "title": "Very Good Marketing",
     "logo_img": "/images/verygood.png",

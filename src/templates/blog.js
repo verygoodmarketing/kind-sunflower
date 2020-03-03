@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import SEO from '../components/Seo';
 import moment from 'moment-strftime';
 
 import {Layout} from '../components/index';
@@ -9,6 +10,12 @@ export default class Blog extends React.Component {
     render() {
         let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.date', 'desc');
         return (
+          <div>
+            <SEO
+              title={_.get(this.props, 'pageContext.frontmatter.title')}
+              description={_.get(this.props, 'pageContext.frontmatter.description')}
+              image={_.get(this.props, 'pageContext.frontmatter.image')}
+            />
             <Layout {...this.props}>
             <div className="outer">
               <div className="inner">
@@ -40,6 +47,7 @@ export default class Blog extends React.Component {
               </div>
             </div>
             </Layout>
+          </div>
         );
     }
 }
