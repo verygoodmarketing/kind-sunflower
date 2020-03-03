@@ -57,7 +57,7 @@ const SEO = ({
           </Helmet>
           <Facebook
             pageUrl={seo.url}
-            type={article ? 'article' : null}
+            type={article ? 'article' : 'website'}
             title={seo.title}
             description={seo.description}
             image={seo.image}
