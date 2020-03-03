@@ -5,6 +5,7 @@ date: '2019-04-23'
 thumb_img_path: images/3_thumb.jpg
 content_img_path: &imgUrl /images/3.jpg
 image: *imgUrl
+imageType: ""
 excerpt: &desc >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.

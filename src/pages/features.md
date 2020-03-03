@@ -2,6 +2,7 @@
 title: Key Features of our Services
 description: "We don't stop with just enough. We give you everything we have."
 image: '/images/very-good.jpg'
+imageType: ""
 bookingUrl: &bookingUrl https://m.facebook.com/services_vertical/book_appointment/?page_id=1042711662596982&referrer=primary_cta&referrer_surface=page
 sections:
   - type: contentblock

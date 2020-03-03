@@ -3,6 +3,7 @@
   "titleTemplate": "%s · Very Good Marketing Co.",
   "description": "Simple, affordable, and effective Facebook and Instagram marketing for small businesses.",
   "image": "/images/share.jpg",
+  "imageType": "image/jpeg",
   "url": "https://verygoodmarketing.com",
   "palette": "blue",
   "twitterUsername": "@very_marketing",

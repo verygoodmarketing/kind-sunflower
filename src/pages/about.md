@@ -6,6 +6,7 @@ subtitle: &desc >-
 description: *desc
 img_path: &img /images/about.jpg
 image: *img
+imageType: ""
 menus:
   secondary:
     title: About Us

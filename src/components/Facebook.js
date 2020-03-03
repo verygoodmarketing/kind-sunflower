@@ -7,6 +7,7 @@ export default ({
   title = null,
   description = null,
   image = null,
+  imageType = null,
   appID = null
 }) => (
   <Helmet>
@@ -15,6 +16,7 @@ export default ({
     {title && <meta property="og:title" content={title} />}
     {description && <meta property="og:description" content={description} />}
     {image && <meta property="og:image" content={image} />}
+    {imageType && <meta property="og:image:type" content={imageType} />}
     {appID && <meta property="fb:app_id" content={appID} />}
   </Helmet>
 );

@@ -2,6 +2,7 @@
 title: Get in touch with us
 description: ""
 image: ""
+imageType: ""
 menus:
   secondary:
     title: Contact
