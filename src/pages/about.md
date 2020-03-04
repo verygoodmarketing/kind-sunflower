@@ -1,17 +1,19 @@
 ---
-title: About
-subtitle: &desc >-
-  There are a lot of businesses doing the same thing you are. To catch attention you
-  have to think abou things differently.
-description: *desc
-img_path: &img /images/about.jpg
-image: *img
-imageType: ""
+img_path: /images/about.jpg
 menus:
   secondary:
     title: About Us
     weight: 1
+imageType: ''
+title: About
+subtitle: >-
+  There are a lot of businesses doing the same thing you are. To catch attention
+  you have to think about things differently.
 template: page
+image: /images/about.jpg
+description: >-
+  There are a lot of businesses doing the same thing you are. To catch attention
+  you have to think abou things differently.
 ---
 
 Very Good Marketing Co. is a small marketing company based out of Hartselle, AL. The name
