@@ -6,7 +6,7 @@ imageType: ""
 menus:
   secondary:
     title: Contact
-    weight: 3
+    weight: 2
 template: contact
 ---
 
