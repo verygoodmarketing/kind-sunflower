@@ -574,6 +574,10 @@ collections:
                         name: price
                         label: Price
                         required: false
+                      - widget: string
+                        name: subprice
+                        label: Sub Price Text
+                        required: false                        
                       - widget: markdown
                         name: details
                         label: Details

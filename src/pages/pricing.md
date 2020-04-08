@@ -13,20 +13,24 @@ sections:
     bg: gray
     pricingplans:
       - title: Single
-        price: $39/m
+        price: $59/m
+        subprice: Starting at        
         details: |-
           * Custom Ad Creation
           * Offer Planning
           * 1 Ad Updated Monthly
-          * Weekly Effectiveness Reports
+          * Monthly Effectiveness Reports
           * Landing Page w/ Lead Form
         actions:
           - label: Get Started
             url: *bookingUrl
       - title: Professional
         price: $299/m
+        subprice: Starting at        
         details: |-
           * Fully Managed Ads
+          * Custom Ads Creation
+          * Offer Planning
           * Facebook & Instagram Retargeting
           * Multiple Updates per Month
           * A / B Split Testing
@@ -38,11 +42,12 @@ sections:
             url: *bookingUrl
       - title: Multiple
         price: $149/m
+        subprice: Starting at
         details: |-
           * Custom Ad Creation
           * Offer Planning
           * 3 Ads Updated Monthly
-          * Weekly Effectiveness Reports
+          * Bi-weekly Effectiveness Reports
           * Landing Page w/ Lead Form
         actions:
           - label: Get Started

@@ -26,6 +26,9 @@ export default class PricingBlock extends React.Component {
                     {_.get(plan, 'price') && 
                     <div className="plan-price">{_.get(plan, 'price')}</div>
                     }
+                    {_.get(plan, 'subprice') && 
+                    <div className="plan-subprice">{_.get(plan, 'subprice')}</div>
+                    }                    
                     <div className="plan-details">
                       {markdownify(_.get(plan, 'details'))}
                     </div>
