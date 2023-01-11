@@ -18,7 +18,7 @@
     "gatsby-plugin-react-helmet-async": "^1.0.15",
     "gatsby-plugin-sitemap": "^2.2.27",
     "gatsby-source-filesystem": "^2.1.48",
-    "gatsby-transformer-remark": "^2.6.50",
+    "gatsby-transformer-remark": "^5.25.1",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "marked": "^0.8.0",
